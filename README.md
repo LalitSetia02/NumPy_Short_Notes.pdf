@@ -13,4 +13,4 @@ Quick reference notes and code examples for the Python **NumPy** library, coveri
 ## Document Details
 * **Author:** Lalit Setia
 * **Batch:** 8
-* **Academic Year:** 2025-26
+* **Academic Year:** 2024-2025.
